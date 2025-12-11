@@ -48,10 +48,11 @@ El acelerómetro detecta inclinación del dispositivo para mover al personaje a 
 
 Capturas de Pantalla
 
-[Coloca al menos 3 (investiga como agregarlas y se vean en GitHub)]
+![1](https://github.com/user-attachments/assets/fd8c022c-8f5a-4c57-9d5d-dbcb54b5e933)
 
+![2](https://github.com/user-attachments/assets/7baad129-3d9a-4b55-8a9e-89d961b4721a)
 
-
+![3](https://github.com/user-attachments/assets/177f241d-67fd-4604-bd40-431f7c4dffb4)
 
 
 Instalación y Releases
