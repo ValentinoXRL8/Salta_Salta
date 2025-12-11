@@ -13,6 +13,8 @@ import retrofit2.http.POST
 import retrofit2.http.GET
 import retrofit2.http.Path
 
+
+//donde conecta el sever
 interface ApiService {
     @POST("api/usuarios/registro")
     suspend fun registrarUsuario(@Body user: UserRequest): Response<ApiResponse<UserResponse>>

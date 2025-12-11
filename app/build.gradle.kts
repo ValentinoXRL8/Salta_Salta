@@ -54,6 +54,10 @@ dependencies {
     // Retrofit para peticiones HTTP
     implementation("com.squareup.retrofit2:retrofit:2.9.0")
     implementation("com.squareup.retrofit2:converter-gson:2.9.0")
+    
+    // OkHttp para cliente HTTP y logging
+    implementation("com.squareup.okhttp3:okhttp:4.12.0")
+    implementation("com.squareup.okhttp3:logging-interceptor:4.12.0")
 
     // Coroutines para operaciones asíncronas
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3")
