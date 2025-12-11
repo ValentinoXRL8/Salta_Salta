@@ -1,4 +1,4 @@
-package com.example.saltasalta.data.repositoty
+package com.example.saltasalta.data.repository
 
 import com.example.saltasalta.data.api.RetrofitClient
 import com.example.saltasalta.data.models.UpdateUserRequest
@@ -94,3 +94,5 @@ class AuthRepository {
         }
     }
 }
+
+

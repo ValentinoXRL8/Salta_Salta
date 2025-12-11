@@ -1,7 +1,5 @@
 package com.example.saltasalta.ui.componets
 
-package com.example.saltasalta.ui.componets
-
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.fillMaxSize

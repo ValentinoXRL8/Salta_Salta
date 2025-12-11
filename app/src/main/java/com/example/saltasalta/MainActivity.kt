@@ -18,8 +18,8 @@ import androidx.compose.ui.platform.LocalContext
 import androidx.navigation.compose.rememberNavController
 import com.example.saltasalta.data.api.RetrofitClient
 import com.example.saltasalta.data.models.UserResponse
-import com.example.saltasalta.data.repository.AuthRepository
-import com.example.saltasalta.data.repository.AuthResult
+import com.example.saltasalta.data.repositoty.AuthRepository
+import com.example.saltasalta.data.repositoty.AuthResult
 import com.example.saltasalta.navigation.NavGraph
 import com.example.saltasalta.navigation.Screen
 import com.example.saltasalta.ui.theme.SaltaSaltaTheme
