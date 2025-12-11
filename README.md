@@ -57,8 +57,5 @@ Capturas de Pantalla
 Instalación y Releases
 
 El ejecutable firmado (.apk) se encuentra disponible en la sección de **Releases** de este repositorio.
-[Liga correctamente tu link de releases en la siguiente sección]
+https://github.com/ValentinoXRL8/Salta_Salta/releases/tag/Salta_A_4_0.1
 
-1.  Ve a la sección "Releases" (o haz clic [aquí](link_a_tus_releases)).
-2.  Descarga el archivo `.apk` de la última versión.
-3.  Instálalo en tu dispositivo Android (asegúrate de permitir la instalación de orígenes desconocidos).
