@@ -58,4 +58,5 @@ Instalación y Releases
 
 El ejecutable firmado (.apk) se encuentra disponible en la sección de **Releases** de este repositorio.
 https://github.com/ValentinoXRL8/Salta_Salta/releases/tag/Salta_A_4_0.1
+sha256:27e9a5eb61f2895d7485b0c712e65d70d8e39d512080f14b176c294f1e344c26
 
